@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://cheatingstiffen.com/k8x3i9hhj?key=cf2c2d540aad62d64a526f78df8e9321/`
+					`https://khoborerkagog.com/`
 				}`,
 			},
 		};
